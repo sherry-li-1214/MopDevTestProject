@@ -1,0 +1,20 @@
+{
+
+  "Login": {
+    "Email":"",
+    "Password":""
+  },
+  
+  "Account1":{
+    "AccountName": "Res1",
+    "Type": "Resellor1",
+    "Email":"Resellor1",
+     "Country":"au",
+    } ,
+  "Account2":{
+    "AccountName": "Msp1",
+    "Type": "MSP",
+    "Email":"MSP1@aa.com",
+     "Country":"us",
+    } ,
+}

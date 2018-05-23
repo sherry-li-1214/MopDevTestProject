@@ -1,0 +1,24 @@
+{
+  "Client":{
+    "Company": "testcompany5",
+    "Address": "test address",
+    "City":"VIC",
+     "Post Code":"1111",
+     "Country":"Australia",
+     "Company Phone":"03-11",
+     "Title":"qrPSvrw7xRqXewY7A+xTgf2e2J68paDrQ5M1S5sA",
+     "First Name":"fntest2",
+     "Last Name":"lntest2",
+     "Email":"fnlntest2@cortexit.com.au",
+     "Phone":"1111",
+   } ,
+  "Site":{
+    "client":3,
+    "SiteName":"testSite",
+   },
+  "jobRecoveryProperty":{
+    "recoverDriver": "I:",
+    "restoreLocation":"C:\\temp2"
+  }
+ 
+}
